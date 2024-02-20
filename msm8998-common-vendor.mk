@@ -495,9 +495,9 @@ PRODUCT_PACKAGES += \
     SoterService \
     CneApp \
     TimeService \
+    PowerOffAlarm \
     QtiTelephonyService \
     uceShimService \
-    PowerOffAlarm \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
